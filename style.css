@@ -471,4 +471,70 @@ fieldset .submit:hover{
      box-shadow: 0 10px 20px rgba(0,0,0,0.2);
      background-color: rgb(53, 38, 18);
      color: #fff;
-    }
+}
+.about{
+    height: 400px;
+}
+.continer-about{
+    margin-top: 100px;
+    margin-left: 10px;
+}
+.right45{
+    float: left;
+    width: 25%;
+}
+.Fruits00  p{
+    width: 100px;
+    margin-top: 10px;
+}
+.Services10 p{
+    width: 100px;
+    margin-top: 10px;
+}
+.List10 p{
+    width: 100px;
+    margin-top: 10px;
+}
+.Folow-US h4{
+   margin-bottom: 10px;
+
+}
+.disblay{
+    display: inline-block;
+}
+.fec img{
+    width: 30px;
+}
+.tut img{
+    width: 30px;
+}
+.in img{
+     width: 30px;
+}
+.inst img{
+    width: 30px;
+}
+.Subscribw label{
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 2px;
+}
+.Subscribw input{
+    border: 1px solid;
+    outline: none;
+    padding: 2px 15px 2px;
+    margin-top: 10px;
+    display: block;
+}
+.parent{
+    width: 100%;
+    background-color:rgb(241, 237, 230);
+}
+.footer{
+    width: 50%;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-top: 15px;
+}
