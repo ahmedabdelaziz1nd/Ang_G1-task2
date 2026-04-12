@@ -526,6 +526,9 @@ fieldset .submit:hover{
     margin-top: 10px;
     display: block;
 }
+.Subscribw input :hover{
+    background-color: #f08b4c;
+}
 .parent{
     width: 100%;
     background-color:rgb(241, 237, 230);
